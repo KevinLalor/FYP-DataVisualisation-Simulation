@@ -1,4 +1,4 @@
-# FYP-DataVisualisation-Simulation1
+# FYP-DataVisualisation-Simulation
 I created a simulation software to simulate a virus with adjustable settings. On top of this you can export this simulation to an Online Dashboard which shows visualisations of the data collected from your specific Simulation and the simulation itself. Used Languages are Netlogo Python. Softwares used include Netlogo, Python, Java, Pynetlogo, Jpype
 
 This project was done as my Final year project in University College Dublin, with a full 30 page report alongside it.
